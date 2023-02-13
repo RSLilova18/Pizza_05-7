@@ -1,4 +1,4 @@
-public class Pizza {
+public class Pizza extends Topping{
     private String Name;
     private String Dought;
     private String Topping;
